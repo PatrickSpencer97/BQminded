@@ -1,9 +1,15 @@
-Capitain:
-Cook: Roberto
+Capitain: 
+Cook: 
 Pilot: 
 Cleaner: 
 Guests:
  - 
  - 
- - ...
+ - 
+ 
+ 
+ 
+ 
+ 
+ -Patrick
 
